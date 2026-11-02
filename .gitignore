@@ -1,0 +1,23 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Local overrides
+CLAUDE.local.md
+*.local
+
+# Temp
+*.tmp
+*.bak
